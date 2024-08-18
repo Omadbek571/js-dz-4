@@ -150,10 +150,21 @@
 // ????
 
 
+// kanspekt
 
 
+// JavaScriptda callback funksiyalar - bu boshqa funksiyalar tomonidan parametr sifatida qabul qilinadigan va chaqiriladigan funksiyalardir. Callback funksiyalar asosan asinxron kodda ishlatiladi va kodni tartibga solishda, xatoliklarni boshqarishda yoki aniq bir amalni bajarishda yordam beradi.
 
 
+// Pure function, JavaScriptda, quyidagi xususiyatlarga ega bo‘lgan funksiyadir:
+
+// Deterministik: Har doim bir xil kirish qiymatlari uchun bir xil chiqish qiymatini beradi.
+// Yon Ta'sirlar Yo‘q: Tashqi holatga ta'sir qilmaydi va hech qanday global o‘zgaruvchilarni o‘zgartirmaydi.
+
+// function kvadrat(x) {
+//     return x * x;
+//   }
+  
 
 
 
